@@ -1,196 +1,192 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&animation=fadeIn"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0f0c29,50:302b63,100:24243e&height=160&section=header&text=Abhishek%20John%20J&fontColor=ffffff&fontSize=50&fontAlignY=55&animation=blinking&desc=CSE%20Student%20%7C%20Developer%20%7C%20Problem%20Solver&descSize=16&descAlignY=78"/>
 </div>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=2000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Abhishek+John+J+%F0%9F%91%8B;CSE+Student+%F0%9F%8E%93;Web+Developer+%F0%9F%92%BB;JavaScript+Enthusiast+%E2%9A%A1" alt="Typing SVG" />
-</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=18&pause=2000&color=888888&center=true&vCenter=true&width=800&lines=Building+things+one+commit+at+a+time;Passionate+about+Web+Development+%26+JavaScript;Exploring+new+technologies+every+day;Always+learning%2C+always+growing+%F0%9F%8C%B1" alt="Subtitle" />
-</p>
-
----
-
-<h2 align="center">🐍 My Contribution Journey</h2>
-<div align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Github contribution grid snake animation" />
-</div>
-
----
-
-<h2 align="center">👨‍💻 About Me</h2>
+<br/>
 
 <div align="center">
-  <p style="font-size: 16px; line-height: 1.8; max-width: 800px; margin: 0 auto;">
-    <strong>CSE Student</strong> | <strong>Web Developer</strong> | <strong>Open Source Contributor</strong>
-  </p>
+
+```
+██████████████████████████████████████████████████████████
+█                                                        █
+█    > Initializing profile...                          █
+█    > Loading skills...          [████████████] 100%   █
+█    > Brewing coffee...          [████████░░░░]  67%   █
+█    > Solving problems...        [████████████] 100%   █
+█    > Status: READY TO BUILD 🚀                        █
+█                                                        █
+██████████████████████████████████████████████████████████
+```
+
 </div>
 
-<br>
+<br/>
 
 <div align="center">
-  <table border="0" cellpadding="10">
-    <tr>
-      <td align="left" style="border: none;">
-        <h3>🎯 Core Interests</h3>
-        <ul style="list-style-type: none; padding: 0;">
-          <li>✦ Web Development (HTML, CSS, JS)</li>
-          <li>✦ JavaScript & Entrepreneurship</li>
-          <li>✦ Building practical projects</li>
-          <li>✦ Problem Solving & DSA</li>
-        </ul>
-      </td>
-      <td align="left" style="border: none;">
-        <h3>🚀 Current Goals</h3>
-        <ul style="list-style-type: none; padding: 0;">
-          <li>✦ Leveling up JavaScript skills</li>
-          <li>✦ Building a standout portfolio</li>
-          <li>✦ Contributing to open-source</li>
-          <li>✦ Exploring full-stack development</li>
-        </ul>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center" style="margin-top: 20px;">
-  <img src="https://img.shields.io/badge/Code%20Quality-First-58A6FF?style=for-the-badge&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Innovation-Driven-ff6b6b?style=for-the-badge&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Growth-Mindset-2EC866?style=for-the-badge&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Learning-Continuous-FFA116?style=for-the-badge&labelColor=0d1117" />
+  <a href="https://github.com/AbhishekJohnJ">
+    <img src="https://img.shields.io/badge/-%40AbhishekJohnJ-black?style=flat-square&logo=github&logoColor=white&labelColor=black"/>
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-brightgreen?style=flat-square"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Focus-Web%20%2B%20DSA-blueviolet?style=flat-square"/>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=AbhishekJohnJ&style=flat-square&color=blueviolet&label=visitors"/>
 </div>
 
 ---
 
-<h2 align="center">🛠️ Tech Arsenal</h2>
+## `$ whoami`
 
-<h3 align="center">Languages</h3>
+<table>
+<tr>
+<td width="55%" valign="top">
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-        <br><strong>JavaScript</strong>
-      </td>
-      <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
-        <br><strong>Python</strong>
-      </td>
-      <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" height="48" alt="C" />
-        <br><strong>C</strong>
-      </td>
-    </tr>
-  </table>
-</div>
+```python
+class Abhishek:
+    name       = "Abhishek John J"
+    username   = "AbhishekJohnJ"
+    role       = "CSE Student"
+    based_in   = "India 🇮🇳"
 
-<h3 align="center">Web Technologies</h3>
+    interests  = [
+        "Problem Solving & DSA 🧠",
+        "Web Development 🌐",
+        "Python Scripting 🐍",
+        "React & JavaScript ⚛️",
+    ]
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" />
-        <br><strong>HTML5</strong>
-      </td>
-      <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" />
-        <br><strong>CSS3</strong>
-      </td>
-      <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" />
-        <br><strong>React</strong>
-      </td>
-      <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
-        <br><strong>Node.js</strong>
-      </td>
-    </tr>
-  </table>
-</div>
+    currently  = [
+        "Sharpening DSA skills daily",
+        "Building cool web projects",
+        "Exploring React ecosystem",
+    ]
 
-<h3 align="center">Tools & Platforms</h3>
+    fun_fact   = "I debug with coffee ☕"
+
+    def greet(self):
+        return "Let's build something awesome!"
+```
+
+</td>
+<td width="45%" valign="top" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=AbhishekJohnJ&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=a855f7&icon_color=a855f7&text_color=e2e8f0&count_private=true" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+## `$ cat skills.json`
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
-        <br><strong>Git</strong>
-      </td>
-      <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub" />
-        <br><strong>GitHub</strong>
-      </td>
-      <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" />
-        <br><strong>VS Code</strong>
-      </td>
-    </tr>
-  </table>
+
+| Layer | Technologies |
+|-------|-------------|
+| 🎨 **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) |
+| 🐍 **Language** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) |
+| 🧠 **CS Core** | ![DSA](https://img.shields.io/badge/DSA-FF6B6B?style=for-the-badge&logo=leetcode&logoColor=white) ![Algorithms](https://img.shields.io/badge/Algorithms-4ECDC4?style=for-the-badge&logo=thealgorithms&logoColor=white) |
+| 🔧 **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) |
+
 </div>
 
 ---
 
-<h2 align="center">📊 GitHub Analytics</h2>
+## `$ git log --oneline`
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AbhishekJohnJ&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekJohnJ&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
-</div>
 
-<div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=AbhishekJohnJ&theme=tokyonight&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=ff6b6b&currStreakLabel=58A6FF" alt="GitHub Streak" />
+```
+a3f9c12  🧠  Cracked a hard DSA problem at 2AM
+b7d4e01  🌐  Built a new web project from scratch
+c2a8f93  ⚛️   Explored React hooks deeper
+d5b3e44  🐍  Wrote a Python automation script
+e9c7d21  📚  Grinded 10 DSA problems today
+f4a1b82  💡  Had a breakthrough idea at 3AM
+g8e5c09  ☕  Debugged for 3hrs, fixed by a semicolon
+```
+
 </div>
 
 ---
 
-<h2 align="center">🏆 Achievements</h2>
+## `$ ./stats.sh`
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AbhishekJohnJ&theme=onedark&no-frame=true&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AbhishekJohnJ&theme=midnight-purple&hide_border=true&background=0d0d0d&stroke=a855f7&ring=a855f7&fire=ff6b6b&currStreakLabel=a855f7&sideLabels=e2e8f0&dates=888888" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekJohnJ&layout=donut&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=a855f7&text_color=e2e8f0&langs_count=6" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="80%" src="https://github-profile-trophy.vercel.app/?username=AbhishekJohnJ&theme=darkhub&no-frame=true&margin-w=8&column=4"/>
 </div>
 
 ---
 
-<h2 align="center">📌 Featured Projects</h2>
+## `$ ls projects/`
 
 <div align="center">
   <a href="https://github.com/AbhishekJohnJ/Portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekJohnJ&repo=Portfolio&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekJohnJ&repo=Portfolio&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=a855f7&text_color=e2e8f0&icon_color=a855f7" />
   </a>
+  &nbsp;
   <a href="https://github.com/AbhishekJohnJ/Entrepreneurship">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekJohnJ&repo=Entrepreneurship&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekJohnJ&repo=Entrepreneurship&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=a855f7&text_color=e2e8f0&icon_color=a855f7" />
   </a>
 </div>
 
 ---
 
-<h2 align="center">🌐 Connect With Me</h2>
+## `$ snake --contributions`
 
 <div align="center">
-  <a href="https://github.com/AbhishekJohnJ" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="contribution snake"/>
+</div>
+
+---
+
+## `$ ping abhishek --connect`
+
+<div align="center">
+
+```
+PING abhishek.dev ... open for collaboration!
+
+[ LinkedIn  ]  → linkedin.com/in/YOUR_LINKEDIN_HERE
+[ GitHub    ]  → github.com/AbhishekJohnJ
+[ Gmail     ]  → YOUR_EMAIL_HERE
+[ Portfolio ]  → github.com/AbhishekJohnJ/Portfolio
+
+Response time: immediate ⚡
+Packets: ideas exchanged, projects built, connections made
+```
+
+<br/>
+
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_HERE">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <!-- Add your LinkedIn URL below -->
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_HERE" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <!-- Add your email below -->
+  &nbsp;
   <a href="mailto:YOUR_EMAIL_HERE">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  &nbsp;
+  <a href="https://github.com/AbhishekJohnJ">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
 </div>
 
 ---
 
 <div align="center">
-  <h3>💼 Open to Opportunities</h3>
-  <p>Feel free to explore my repositories and reach out for collaborations, projects, or just to connect!</p>
-  <img src="https://komarev.com/ghpvc/?username=AbhishekJohnJ&style=for-the-badge&color=58A6FF&label=Profile+Views" alt="Profile Views"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="70%"/>
 </div>
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer&animation=fadeIn"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0f0c29,50:302b63,100:24243e&height=80&section=footer&animation=blinking&reversal=true"/>
 </div>
