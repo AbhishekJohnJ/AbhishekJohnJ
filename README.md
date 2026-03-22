@@ -15,13 +15,15 @@
 <div align="center">
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhishek%20John%20J-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=03001C)](https://www.linkedin.com/in/abhishek-john-j-6a484a389/)
+[![LinkedIn](https://img.shields.io/badge/Abhishek%20John%20J-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=03001C)](https://www.linkedin.com/in/abhishek-john-j-6a484a389/)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-AbhishekJohnJ-e0c3fc?style=flat-square&logo=github&logoColor=060010&labelColor=301E67)](https://github.com/AbhishekJohnJ)
+[![GitHub](https://img.shields.io/badge/AbhishekJohnJ-BE8AF7?style=for-the-badge&logo=github&logoColor=03001C&labelColor=301E67)](https://github.com/AbhishekJohnJ)
 &nbsp;
-[![Profile Views](https://komarev.com/ghpvc/?username=AbhishekJohnJ&style=flat-square&color=5B8FB9&label=Profile+Views&labelColor=03001C)](https://github.com/AbhishekJohnJ)
+[![Profile Views](https://komarev.com/ghpvc/?username=AbhishekJohnJ&style=for-the-badge&color=301E67&label=Profile+Views&labelColor=03001C)](https://github.com/AbhishekJohnJ)
 &nbsp;
-[![Status](https://img.shields.io/badge/Status-Open%20to%20Work-00ff88?style=flat-square&logo=statuspage&logoColor=00ff88&labelColor=03001C)](https://github.com/AbhishekJohnJ)
+[![Status](https://img.shields.io/badge/Open%20to%20Work-00C853?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=03001C)](https://github.com/AbhishekJohnJ)
+&nbsp;
+[![India](https://img.shields.io/badge/India%20%F0%9F%87%AE%F0%9F%87%B3-5B8FB9?style=for-the-badge&labelColor=03001C)](https://github.com/AbhishekJohnJ)
 
 <br/>
 </div>
@@ -175,18 +177,32 @@ automation in Python, grinding algorithms daily.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekJohnJ&layout=donut&theme=tokyonight&hide_border=true&title_color=BE8AF7&text_color=a9b1d6&bg_color=03001C&langs_count=8&border_radius=12" width="36%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AbhishekJohnJ&show_icons=true&theme=tokyonight&hide_border=true&title_color=BE8AF7&icon_color=5B8FB9&text_color=a9b1d6&bg_color=03001C&count_private=true&include_all_commits=true&border_radius=12&rank_icon=github" width="48%"/>
+&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhishekJohnJ&theme=tokyonight&hide_border=true&stroke=301E67&ring=BE8AF7&fire=5B8FB9&currStreakLabel=BE8AF7&sideLabels=a9b1d6&dates=4a4f7a&background=03001C&border_radius=12" width="48%"/>
 
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekJohnJ&layout=donut-vertical&theme=tokyonight&hide_border=true&title_color=BE8AF7&text_color=a9b1d6&bg_color=03001C&langs_count=6&border_radius=12" width="34%"/>
 &nbsp;&nbsp;
-
-<img src="https://github-profile-trophy.vercel.app/?username=AbhishekJohnJ&theme=tokyonight&no-frame=true&margin-w=6&column=3&no-bg=false" width="55%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AbhishekJohnJ&theme=tokyonight&utcOffset=5.5" width="58%"/>
 
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhishekJohnJ&bg_color=03001C&color=BE8AF7&line=8ec5fc&point=e0c3fc&area_color=301E67&area=true&hide_border=true&radius=8" width="96%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhishekJohnJ&bg_color=03001C&color=BE8AF7&line=5B8FB9&point=BE8AF7&area_color=301E67&area=true&hide_border=true&radius=8&custom_title=Abhishek%27s%20Contribution%20Graph" width="96%"/>
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbhishekJohnJ&theme=tokyonight" width="32%"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AbhishekJohnJ&theme=tokyonight" width="32%"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AbhishekJohnJ&theme=tokyonight" width="32%"/>
 </div>
 
 <br/>
