@@ -1,5 +1,3 @@
-<img width="293" height="101" alt="image" src="https://github.com/user-attachments/assets/2741d870-be33-414d-8b88-4332afda0ab4" /><div align="center">
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0010,30:1a0030,60:0d1f3c,100:001a2e&height=220&section=header&text=ABHISHEK%20JOHN%20J&fontColor=e0c3fc&fontSize=55&fontAlignY=42&animation=fadeIn&desc=CSE%20Student%20%20·%20%20Web%20Developer%20%20·%20%20DSA%20Enthusiast&descSize=14&descAlignY=65&descColor=8ec5fc"/>
 
 </div>
