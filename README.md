@@ -212,7 +212,7 @@ automation in Python, grinding algorithms daily.
 
 <br/>
 
-[<!-- PROJECTS SECTION -->
+<!-- PROJECTS SECTION -->
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:05001A,100:1A0050&height=50&section=header&text=%E2%9A%A1%20%20FEATURED%20PROJECTS%20%20%E2%9A%A1&fontColor=00FFFF&fontSize=20&fontAlignY=65&animation=twinkling"/>
 </div>
@@ -223,7 +223,10 @@ automation in Python, grinding algorithms daily.
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 [AI Resume Builder](https://github.com/AbhishekJohnJ/AI_Resume_Builder)
+<img src="https://img.shields.io/badge/AI%20RESUME%20BUILDER-00FFFF?style=for-the-badge&logo=python&logoColor=05001A&labelColor=05001A"/>
+
+**[→ View Repository](https://github.com/AbhishekJohnJ/AI_Resume_Builder)**
+
 An AI-powered tool that helps generate and format professional resumes automatically.
 
 `Python` `AI/ML` `Automation`
@@ -231,7 +234,10 @@ An AI-powered tool that helps generate and format professional resumes automatic
 </td>
 <td width="50%" valign="top">
 
-### 🗺️ [MindPath](https://github.com/AbhishekJohnJ/MindPath)
+<img src="https://img.shields.io/badge/MINDPATH-B57BFF?style=for-the-badge&logo=react&logoColor=05001A&labelColor=05001A"/>
+
+**[→ View Repository](https://github.com/AbhishekJohnJ/MindPath)**
+
 A project focused on mapping out learning or thought paths for structured problem-solving.
 
 `JavaScript` `React` `Web App`
@@ -241,7 +247,10 @@ A project focused on mapping out learning or thought paths for structured proble
 <tr>
 <td width="50%" valign="top">
 
-### 💼 [Portfolio](https://github.com/AbhishekJohnJ/Portfolio)
+<img src="https://img.shields.io/badge/PORTFOLIO-7C3AED?style=for-the-badge&logo=html5&logoColor=00FFFF&labelColor=05001A"/>
+
+**[→ View Repository](https://github.com/AbhishekJohnJ/Portfolio)**
+
 My personal developer portfolio showcasing projects, skills, and experience.
 
 `HTML` `CSS` `JavaScript`
@@ -249,8 +258,11 @@ My personal developer portfolio showcasing projects, skills, and experience.
 </td>
 <td width="50%" valign="top">
 
-### 🚀 [MedCare](https://github.com/AbhishekJohnJ/MedCare)
-A project exploring ideas and tools related to Healthcare and Emergency.
+<img src="https://img.shields.io/badge/MEDCARE-00CFFF?style=for-the-badge&logo=googlemaps&logoColor=05001A&labelColor=05001A"/>
+
+**[→ View Repository](https://github.com/AbhishekJohnJ/MedCare)**
+
+A project exploring ideas and tools related to healthcare and emergency response.
 
 `Web` `Project`
 
@@ -258,7 +270,7 @@ A project exploring ideas and tools related to Healthcare and Emergency.
 </tr>
 </table>
 
-</div>](https://github.com/AbhishekJohnJ/MedCare)
+</div>
 
 <br/>
 
