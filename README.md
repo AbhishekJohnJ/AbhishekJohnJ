@@ -212,7 +212,7 @@ automation in Python, grinding algorithms daily.
 
 <br/>
 
-<!-- PROJECTS SECTION -->
+[<!-- PROJECTS SECTION -->
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:05001A,100:1A0050&height=50&section=header&text=%E2%9A%A1%20%20FEATURED%20PROJECTS%20%20%E2%9A%A1&fontColor=00FFFF&fontSize=20&fontAlignY=65&animation=twinkling"/>
 </div>
@@ -258,7 +258,7 @@ A project exploring ideas and tools related to Healthcare and Emergency.
 </tr>
 </table>
 
-</div>
+</div>](https://github.com/AbhishekJohnJ/MedCare)
 
 <br/>
 
