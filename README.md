@@ -249,7 +249,7 @@ My personal developer portfolio showcasing projects, skills, and experience.
 </td>
 <td width="50%" valign="top">
 
-### 🚀 [Entrepreneurship](https://github.com/AbhishekJohnJ/MedCare)
+### 🚀 [MedCare](https://github.com/AbhishekJohnJ/MedCare)
 A project exploring ideas and tools related to Healthcare and Emergency.
 
 `Web` `Project`
