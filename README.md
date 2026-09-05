@@ -219,25 +219,44 @@ automation in Python, grinding algorithms daily.
 
 <br/>
 
-<div align="center">
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://github.com/AbhishekJohnJ/AI_Resume_Builder">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekJohnJ&repo=AI_Resume_Builder&theme=tokyonight&hide_border=true&title_color=00FFFF&text_color=00CFFF&bg_color=05001A&icon_color=B57BFF&border_radius=12"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/AbhishekJohnJ/MindPath">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekJohnJ&repo=MindPath&theme=tokyonight&hide_border=true&title_color=00FFFF&text_color=00CFFF&bg_color=05001A&icon_color=B57BFF&border_radius=12"/>
-</a>
+### 🧠 [AI Resume Builder](https://github.com/AbhishekJohnJ/AI_Resume_Builder)
+An AI-powered tool that helps generate and format professional resumes automatically.
 
-<br/><br/>
+`Python` `AI/ML` `Automation`
 
-<a href="https://github.com/AbhishekJohnJ/Portfolio">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekJohnJ&repo=Portfolio&theme=tokyonight&hide_border=true&title_color=00FFFF&text_color=00CFFF&bg_color=05001A&icon_color=B57BFF&border_radius=12"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/AbhishekJohnJ/Entrepreneurship">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekJohnJ&repo=Entrepreneurship&theme=tokyonight&hide_border=true&title_color=00FFFF&text_color=00CFFF&bg_color=05001A&icon_color=B57BFF&border_radius=12"/>
-</a>
+</td>
+<td width="50%" valign="top">
+
+### 🗺️ [MindPath](https://github.com/AbhishekJohnJ/MindPath)
+A project focused on mapping out learning or thought paths for structured problem-solving.
+
+`JavaScript` `React` `Web App`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💼 [Portfolio](https://github.com/AbhishekJohnJ/Portfolio)
+My personal developer portfolio showcasing projects, skills, and experience.
+
+`HTML` `CSS` `JavaScript`
+
+</td>
+<td width="50%" valign="top">
+
+### 🚀 [Entrepreneurship](https://github.com/AbhishekJohnJ/MedCare)
+A project exploring ideas and tools related to Healthcare and Emergency.
+
+`Web` `Project`
+
+</td>
+</tr>
+</table>
 
 </div>
 
