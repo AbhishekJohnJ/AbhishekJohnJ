@@ -221,6 +221,16 @@ automation in Python, grinding algorithms daily.
 
 <div align="center">
 
+<a href="https://github.com/AbhishekJohnJ/AI_Resume_Builder">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekJohnJ&repo=AI_Resume_Builder&theme=tokyonight&hide_border=true&title_color=00FFFF&text_color=00CFFF&bg_color=05001A&icon_color=B57BFF&border_radius=12"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/AbhishekJohnJ/MindPath">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekJohnJ&repo=MindPath&theme=tokyonight&hide_border=true&title_color=00FFFF&text_color=00CFFF&bg_color=05001A&icon_color=B57BFF&border_radius=12"/>
+</a>
+
+<br/><br/>
+
 <a href="https://github.com/AbhishekJohnJ/Portfolio">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekJohnJ&repo=Portfolio&theme=tokyonight&hide_border=true&title_color=00FFFF&text_color=00CFFF&bg_color=05001A&icon_color=B57BFF&border_radius=12"/>
 </a>
